@@ -8,7 +8,7 @@ Scores on the hardship index can range from 1 to 100, with a higher index number
 
 A detailed description of the dataset can be found on the city of Chicago's website, but to summarize, the dataset has the following variables:
 
-##Community Area Number (ca): Used to uniquely identify each row of the dataset
+Community Area Number (ca): Used to uniquely identify each row of the dataset
 
 Community Area Name (community_area_name): The name of the region in the city of Chicago
 
